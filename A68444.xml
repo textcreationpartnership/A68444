@@ -1,0 +1,303 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The map of mortalitie</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1604</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A68444</idno>
+            <idno type="STC">STC 17294</idno>
+            <idno type="STC">ESTC S121810</idno>
+            <idno type="EEBO-CITATION">99856973</idno>
+            <idno type="PROQUEST">99856973</idno>
+            <idno type="VID">22629</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A68444)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 22629)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1422:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The map of mortalitie</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill. (woodcuts)  </extent>
+               <publicationStmt>
+                  <publisher>By R. B[lower?] for William Lugger, and are to be sould at his shop in Holborne, ouer against S. Andrewes Church,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>[1604]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Verse - "Proude earth behould, as thou art we shall bee.".</note>
+                  <note>Printer's name conjectured and publication date supplied by STC.</note>
+                  <note>Reproduction of the original in the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:22629:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 18 -->
+            <head>
+               <g ref="char:leaf">❧</g> THE MAP OF MORTALITIE.</head>
+            <p>
+               <figure>
+                  <figDesc>shield of the Trinity</figDesc>
+                  <l>The father god is, made of none,</l>
+                  <l>created nor begot</l>
+                  <l>The ſonne of father is alone,</l>
+                  <l>not made create but got.</l>
+                  <l>The holie ghoste procedes from both</l>
+                  <l>not made create nor <gap reason="illegible" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap>t.</l>
+                  <l>trinitie in vnitie.</l>
+                  <p>
+                     <list>
+                        <item>the father is God</item>
+                        <item>the ſonne is God</item>
+                        <item>the holie ghoste is God</item>
+                        <item>God is the father</item>
+                        <item>God is the ſonne</item>
+                        <item>God is the the holie ghoste</item>
+                        <item>the father is not the ſonne</item>
+                        <item>the sonne is not the father</item>
+                        <item>the father is not the holie ghoste </item>
+                        <item>the holie ghost is not the father</item>
+                        <item>the ſonne is not the holie ghoste</item>
+                        <item>the holie ghoste is not the sonne</item>
+                     </list>
+                  </p>
+               </figure>
+            </p>
+            <p>
+               <figure>
+                  <figDesc>depiction of Christ the good shepherd</figDesc>
+                  <l>As by firſt Adam all doe die</l>
+                  <l>So in me all are made aliue.</l>
+                  <l>Death's ſwallowed vp in victory,</l>
+                  <l>And I aeternall life do giue.</l>
+               </figure>
+            </p>
+            <p>
+               <figure>
+                  <figDesc>star of David</figDesc>
+                  <lg>
+                     <l>In god dwelleth he,</l>
+                     <l>that in loue doth dwell.</l>
+                     <l>and god in him doth dwell,</l>
+                     <l>that loueth well.</l>
+                     <l>True loue it is,</l>
+                     <l>the euerlastinge bliſse.</l>
+                     <l>Where god alone, in all his glorie is.</l>
+                  </lg>
+                  <lg>
+                     <l>That brothers liue in unitie</l>
+                     <l>&amp; neighbours dwell in amity.</l>
+                     <l>&amp; man &amp; wife doo well agree</l>
+                     <l>both god &amp; man reioice to ſee.</l>
+                  </lg>
+                  <lg>
+                     <l>A threfold knot, thus wiſely tide,</l>
+                     <l>gainst all aſſalts fast will abide</l>
+                     <l>for god is love &amp; true loue guide</l>
+                     <l>&amp; euer is on true loues ſide</l>
+                  </lg>
+                  <p>
+                     <figure>
+                        <figDesc>depiction of sundial</figDesc>
+                        <l>eche hower prepare:</l>
+                        <l>Death stikes vnware: <g ref="char:cross">✚</g>
+                        </l>
+                        <p>i · ii · iii · iiij · V · Vi · Vij · viiij · iX · X · Xi · Xi ·</p>
+                     </figure>
+                  </p>
+               </figure>
+            </p>
+            <p>
+               <figure>
+                  <figDesc>depiction of rooster</figDesc>
+                  <l>Awake from ſinne,</l>
+                  <l>that ſleep therin.</l>
+               </figure>
+            </p>
+            <p>
+               <figure>
+                  <figDesc>skull and crossbones</figDesc>
+                  <p>Prepare for death but feare not death</p>
+                  <p>REMEMBER THINE END</p>
+                  <l>Earth goes to EARTHE as moulde to moulde.</l>
+                  <l>Earth treades on EARTHE glittering in goulde,</l>
+                  <l>Earth as to EARTHE returne nere ſhould.</l>
+                  <l>Earth ſhall to EARTHE goe ere he would</l>
+                  <l>Earth vpon EARTHE Conſider may,</l>
+                  <l>Earth goes to EARTHE naked away</l>
+                  <l>Earth though on EARTHE be ſtout and gay,</l>
+                  <l>Earth ſhall from EARTHE paſſe poore away.</l>
+               </figure>
+            </p>
+            <p>
+               <figure>
+                  <figDesc>depiction of swan</figDesc>
+                  <l>A Conſcience pure,</l>
+                  <l>ſinges to laſt howre.</l>
+               </figure>
+            </p>
+            <p>
+               <figure>
+                  <figDesc>depiction of book</figDesc>
+                  <lg>
+                     <l>All fleſh as graſſe</l>
+                     <l>awaye doth paſſe</l>
+                     <l>and come to nought</l>
+                  </lg>
+                  <lg>
+                     <l>Gods word moſt pure</l>
+                     <l>aye doth endure</l>
+                     <l>not chang'd in ought</l>
+                  </lg>
+               </figure>
+            </p>
+            <p>
+               <figure>
+                  <figDesc>depiction of corpse in a shroud</figDesc>
+                  <l>A SHROVDE TO GRAVE</l>
+                  <l>MEN ONLY HAVE</l>
+               </figure>
+            </p>
+            <l>PRoude earth behould, as thou art we ſhall bee.</l>
+            <l>Againſt the graue, can no defence be made.</l>
+            <l>Duſt will to duſt, as thou art once were wee:</l>
+            <l>Worldes vaineglorie doth thus to nothing fade.</l>
+            <l>Man doth conſume as water ſpilt on ſande.</l>
+            <l>Like lightnings flaſh, his life is ſeene and gone:</l>
+            <l>Our part is plaide, your part is now in hand,</l>
+            <l>Death ſtrikes vnwares, and ſtriking ſpareth none.</l>
+            <l>Life is a debt to death, all men muſt die:</l>
+            <l>But when, where, how, the Lord alone doth knowe.</l>
+            <l>As death leaues thee, euen ſo vndoubtedlie</l>
+            <l>Iudgement ſhall find thee when laſt trump ſhall blowe.</l>
+            <l>Conſider this ô man whil'ſt it is day,</l>
+            <l>Thine owne Chriſtes death, for thee (if thou be his)</l>
+            <l>Vile worldes deceites, helles torments, heauens ioy.</l>
+            <l>Prouide to day: in night no comfort is,</l>
+            <l>In ſeaſon calme, with <hi>Noah</hi> build an arke:</l>
+            <l>With <hi>Ioſeph</hi> lay vp ſtore in plenties tyme:</l>
+            <l>How to be ſau'd, let be thy chiefeſt cark,</l>
+            <l>Returne to God, repent thee of thy cryme:</l>
+            <l>That come death late, earlie, or when he liſt,</l>
+            <l>It be birth day of thine eternitie.</l>
+            <l>Of righteous men liue thou the life in Chriſt:</l>
+            <l>Then ſure the death of righteous ſhalt thou die.</l>
+            <l>Die to the world, the pompes thereof forſake,</l>
+            <l>That Chriſt may come and liue with thee in loue:</l>
+            <l>So in the world, when thou ſhalt farewell take</l>
+            <l>Thou maiſt goe dwell with Chriſt in heauen aboue.</l>
+            <l>Youth well to liue, age well to die ſhould care:</l>
+            <l>In life, for death: in death for life prepare.</l>
+            <l>Sithe Adams fall did fill the world with ſinne,</l>
+            <l>Whereby mans dayes (few) dayes of ſorrow bin,</l>
+            <l>His life, no life, rather calamitie,</l>
+            <l>And worldes beſt pleaſures, but meere vanitie:</l>
+            <l>Sith beautie, ſtrength and wit, flowers fading bee,</l>
+            <l>Man made of duſt, to duſt muſt turne againe:</l>
+            <l>Sith all muſt die, by gods moſt iuſt decree,</l>
+            <l>And death no torment is, but reſt from paine:</l>
+            <l>Why ſhould fraile fleſh feare death, that ends all woes,</l>
+            <l>That ſalues all ſores, and takes man from his foes?</l>
+            <l>His ſhape though ougly'tis, he bringeth peace,</l>
+            <l>Stints ſtrife, ends cares, giues life, and wiſht-for eaſe.</l>
+            <l>Men dying, ſleepe: ſleeping, from trauell reſt,</l>
+            <l>To liue in ioy for euer with the bleſt.</l>
+            <l>Rather embrace, then feare ſo good a friend:</l>
+            <l>Yet wiſh not for him; that in ſinne doth end:</l>
+            <l>But greater ſinne, to feare him ſure it is,</l>
+            <l>That troubles ends, and brings eternall bliſſe.</l>
+            <l>To faithfull ſoule, death's full of comfortes ſweete,</l>
+            <l>That longeth with his Chriſt in Cloudes to meete.</l>
+            <l>In earth nought ſweeter is to wiſedomes ſenſe,</l>
+            <l>Then to prepare for peace-full paſſage hence.</l>
+            <l>For, wiſe man all his life ſhould meditate</l>
+            <l>On death: that come he ſodaine, ſoone, or late,</l>
+            <l>He is prepared to entertaine him ſo,</l>
+            <l>As Captiues do, redeeming friends from woe.</l>
+            <l>Liue well thou maiſt: but canſt not liue long. Euen</l>
+            <l>So liue, that death may leaue thee fit for heauen:</l>
+            <l>And feare not death; pale, ouglie though he be.</l>
+            <l>Thou art in thrall, he comes to ſet thee free.</l>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Imprinted at London by R. B. for <hi>William Lugger,</hi> and are to be ſould at his ſhop in Holborne, ouer againſt <hi>S.</hi> Andrewes Church.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
